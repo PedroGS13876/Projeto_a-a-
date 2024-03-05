@@ -47,7 +47,7 @@ section .container {
 }
 
 .brands-list img {
-    height: 24px;
+    height: 100px;
 }
 
 .brands-list li {
@@ -76,7 +76,7 @@ section p {
 }
 
 .store-front {
-    max-width: 100%;
+    max-width: 500px;
     height: auto;
 }
 
