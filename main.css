@@ -76,7 +76,8 @@ section p {
 }
 
 .store-front {
-    margin-right: 32px;
+    max-width: 100%;
+    height: auto;
 }
 
 .social-links img {
