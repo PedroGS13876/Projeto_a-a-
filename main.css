@@ -79,9 +79,14 @@ section p {
     margin-right: 32px;
 }
 
+.social-links img {
+    height: 24px;
+}
+
 .social-links li {
     display: inline;
     margin-right: 8px;
+    height: 24px;
 }
 
 .social-links li a {
